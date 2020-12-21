@@ -1,5 +1,5 @@
 # discobot
-Simple Discord bot template made using <a href="https://discord.js.org/#/">discord.js</a> and Typescript.
+Simple Discord bot template made using <a href="https://discord.js.org/#/">discord.js</a> and TypeScript.
 
 
 ## Main features
