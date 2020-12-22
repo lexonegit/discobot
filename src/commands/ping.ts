@@ -9,7 +9,7 @@ export function Run(e: CommandRunEvent)
 
     const timeArray = tools.GetHMS(e.client.uptime);
     const pingEmbed = new MessageEmbed()
-        .setAuthor("👍", "https://cdn.discordapp.com/emojis/384151837604970516.png")
+        .setAuthor("👍", "https://i.imgur.com/NSp2SbU.png")
         .setTimestamp()
         .setDescription(`Uptime: ${timeArray[0]} hours, ${timeArray[1]} minutes and ${timeArray[2]} seconds.`);
 
